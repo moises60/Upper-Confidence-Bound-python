@@ -47,7 +47,7 @@ El proyecto consta de los siguientes archivos:
    Si el proyecto está alojado en un repositorio (por ejemplo, GitHub), clónalo usando:
 
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+   git clone https://github.com/moises60/Upper-Confidence-Bound-python.git
    ```
 
 ## Generación del Dataset
