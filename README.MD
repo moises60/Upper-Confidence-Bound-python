@@ -43,9 +43,6 @@ El proyecto consta de los siguientes archivos:
 ## Instalación
 
 1. **Clonar el Repositorio**
-
-   Si el proyecto está alojado en un repositorio (por ejemplo, GitHub), clónalo usando:
-
    ```bash
    git clone https://github.com/moises60/Upper-Confidence-Bound-python.git
    ```
